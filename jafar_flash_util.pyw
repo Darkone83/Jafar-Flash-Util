@@ -13,7 +13,7 @@ class UrJTAGGui(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title("Jaraf Latice LC4032V Flasher - By: Darkone83")
+        self.title("Jafar Lattice LC4032V Flasher - By: Darkone83")
         self.geometry("820x540")
 
         # --- Top frame: paths & settings ---
