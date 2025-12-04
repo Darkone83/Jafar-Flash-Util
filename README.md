@@ -1,5 +1,11 @@
 # Jafar Flash Util
 
+<div align=center>
+
+  <img src="https://github.com/Darkone83/Jafar-Flash-Util/blob/main/images/DC%20logo.png">
+
+</div>
+
 A small Python/Tk GUI to program **Lattice LC4032V** CPLDs (as used on Jafar-style Xbox modchips) over **JTAG** using an **FT232H / FT2232H** USB adapter and **UrJTAG**.
 
 This tool wraps UrJTAG so you don’t have to type commands by hand — select your SVF file, hit a button, and you’re done.
